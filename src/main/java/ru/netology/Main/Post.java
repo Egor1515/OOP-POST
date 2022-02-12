@@ -1,3 +1,7 @@
+package ru.netology.Main;
+
+import ru.netology.FormDate.FormDate;
+
 public class Post {
     public String name;
     public String passport;
